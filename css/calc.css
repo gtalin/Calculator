@@ -1,0 +1,19 @@
+.display {
+	width: 120px;
+	height: 60px;
+	border: 1px solid black;
+}
+.row .button {
+	display: inline-block;
+}
+.display, .button {
+	margin-bottom: 10px;
+}
+.button {
+	width: 30px;
+	line-height: 30px;
+	border: 1px solid black;
+	border-radius: 10px;
+	text-align: center;
+	vertical-align: middle;
+}
